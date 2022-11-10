@@ -1,0 +1,2 @@
+deploymentURIsLocal:
+  - "http://helloservice.aninda-upgrade-poc-stage:80" 
