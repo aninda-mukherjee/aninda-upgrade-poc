@@ -1,2 +1,2 @@
 deploymentURIsLocal:
-  - "http://login-sercice.aninda-upgrade-poc-stage:80" 
+  - "http://helloservice.aninda-upgrade-poc-stage:80" 
